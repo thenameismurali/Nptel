@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Sensitive Information
+.env
+
+# Local Uploads (Don't push temporary CSV files)
+uploads/
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
