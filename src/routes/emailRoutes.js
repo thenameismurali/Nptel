@@ -50,7 +50,7 @@ router.post("/send-error-mails", async (req, res) => {
     console.log("🏫 Departments detected:", Object.keys(departmentData));
 
     const hodEmails = {
-      CSE: "csehod@gmail.com",
+      CSE: "n200047@rguktn.ac.in",
       ECE: "heheee123790@gmail.com",
       MECH: "mechhod@gmail.com",
       CHEMICAL: "chemhod@gmail.com",
